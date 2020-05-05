@@ -21,6 +21,7 @@ Fork this repo and submit a PR adding your validator, or fixing any typo or erro
 | | slayer_hellraiser | Very stable services! | @ractolechoc5.test | -% | RU |
 | | Tyler34214 | Low fees, great experience in validating! | @dochpryof.test | -% | UK |
 | | SimonHugo | Make Staking Great Again! | @simonhugo.test | -% | UK |
+| | CTH | - | @cth.betanet | -% | CAN |
 | | felix.schulz | Need validating? Go with us! | @felixschulz.test | -% | DE |
 | | JaroslavRud | Just Staking. Cheapest than others | @jaroslavrud.test | -% | CZ |
 | | JanLiamNilsson | ---- | @janliamnilsson.test | -% | SE |
